@@ -31,16 +31,16 @@ The dataset encompasses various features such as location, number of rooms, type
 
 ## Methodology
 
-### Data Exploration
+#### Data Exploration
 Initial analysis focused on understanding the dataset through visualization and statistical analysis.
 
-### Data Preprocessing
+#### Data Preprocessing
 Included cleaning and preparing the data for modeling, handling categorical variables, and addressing missing values.
 
-### Model Building
+#### Model Building
 Different models, including Linear Regression and Lasso Regression, were implemented to predict housing prices.
 
-### Model Evaluation
+#### Model Evaluation
 Models were assessed using metrics like RMSE, R-square, AIC, and BIC.
 
 ## Insights from Exploratory Data Analysis (EDA)
